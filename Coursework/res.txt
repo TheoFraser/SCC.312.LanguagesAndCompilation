@@ -1,0 +1,24 @@
+Compilation Exception
+	Caused by ERROR: Expected begin Found IDENTIFIER at line 1
+ERROR: Expected IDENTIFIER or if or while or call or do or for Found ; at line 2
+
+
+Compilation Exception
+	Caused by ERROR: Expected if Found EOF at line 11
+ERROR: Expected end Found EOF at line 11
+
+
+Compilation Exception
+	Caused by ERROR: Expected IDENTIFIER or if or while or call or do or for Found end at line 7
+ERROR: Expected loop Found EOF at line 13
+ERROR: Expected end Found EOF at line 13
+
+
+Compilation Exception
+	Caused by ERROR: Expected loop Found ; at line 7
+
+
+Compilation Exception
+	Caused by ERROR: Expected IDENTIFIER or if or while or call or do or for Found else at line 4
+
+
